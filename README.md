@@ -7,6 +7,8 @@
 5. Bài 5: Viết chương trình tính tổng 
 S=1+1.2+1.2.3+...+1.2.3...N
 6. Bài 6: Vẽ hình chữ nhật đặc có chiều dài n và chiều rộng m với n, m nhập từ bàn phím.
+7.  Vẽ hình chữ nhật rỗng chiều dài n và chiều rộng m. Ví dụ: m = 4, n = 5
+8. Vẽ tam giác sao vuông cân có cạnh góc vuông có độ dài bằng n, n nhập từ bàn phím
 
 
 
