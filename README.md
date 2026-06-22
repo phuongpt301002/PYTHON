@@ -1,5 +1,5 @@
 # PYTHON
-**II. Vòng lặp**
+**II. Vòng lặp 1**
 1. Bài 1: Viết chương trình in ra các số lẻ nhỏ hơn hoặc bằng n (Với n được nhập từ bàn phím)
 2. Bài 2: Tính tổng các số chẵn từ 1 đến n
 3. Bài 3: Tính tổng các số chia hết cho 3 hoặc 5. Viết chương trình nhập 2 số nguyên dương M và N từ bàn phím (M<N). Tính và đưa ra màn hình tổng các số chia hết cho 3 hoặc 5 trong phạm vi từ M đến N.
@@ -15,9 +15,26 @@ S=1+1.2+1.2.3+...+1.2.3...N
 12. Viết chương trình tính tổng của các chữ số của một số nguyên n trong Python. Số nguyên dương n được nhập từ bàn phím
 
 
+**III> Vòng lặp 2**
+1. Viết chương trình tính giai thừa của một số cho trước được nhập từ bàn phím
+2. Viết chương trình in ra bảng cửu chương từ 2 đến 9
+2. (Mở rộng) Nhập bảng cửu chương n mong muốn sẽ in ra bảng cửu chương đó.
+3. Viết chương trình tính tổng các chữ số của một số nguyên n nhập vào từ bàn phím
+4. Viết chương trình in ra số nguyên tố bé hơn n
+5. Viết chương trình đảo ngược số nguyên n
+Ví dụ: 76543 -> 34567
+6. Viết chương trình in ra mẫu sau: 
+1
+2	3
+4	5	6
+7	8 	9	10
+11 	12	13	14	15
+
+7.  Viết chương trình nhập vào số nguyên n (n>2). Tính các tổng sau:
+![alt text](image-1.png)
 
 
-**III. Mảng 1 chiều**
+**IV. Mảng 1 chiều**
 1. Nhập vào dãy gồm N phần tử, in ra màn hình danh sách các phần tử lẻ trong khoảng a và b, với N, a, b là các số nhập từ bàn phím, a < b
 2.  Nhập vào dãy gồm N phần tử. Tìm phần tử lớn nhất trong dãy, yêu cầu không sử dụng hàm max có sẵn.
 3. BÀI 3. Cho sẵn 1 danh sách gồm các số nguyên a=[2, -4, 1, 9, -3, 6, 3, -2, 6, 8] gồm n=10 phần tử. 
