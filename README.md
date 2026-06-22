@@ -9,6 +9,10 @@ S=1+1.2+1.2.3+...+1.2.3...N
 6. Bài 6: Vẽ hình chữ nhật đặc có chiều dài n và chiều rộng m với n, m nhập từ bàn phím.
 7.  Vẽ hình chữ nhật rỗng chiều dài n và chiều rộng m. Ví dụ: m = 4, n = 5
 8. Vẽ tam giác sao vuông cân có cạnh góc vuông có độ dài bằng n, n nhập từ bàn phím
+9. Nhập vào một số nguyên không âm, kiểm tra xem nó có phải là số nguyên tố hay không?
+10. Viết chương trình nhập vào 1 số nguyên dương n. Kiểm tra xem n có phải là số hoàn hảo không. Số N được gọi là số hoàn hảo, nếu tổng các ước số của nó (không kể nó) bằng N.
+11. Số chính phương là số mà căn bậc hai của nó là 1 số nguyên dương. Viết chương trình nhập vào một số nguyên dương n và cho biết n có phải là số chính phương hay không?
+12. Viết chương trình tính tổng của các chữ số của một số nguyên n trong Python. Số nguyên dương n được nhập từ bàn phím
 
 
 
